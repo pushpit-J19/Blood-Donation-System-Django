@@ -56,6 +56,32 @@ In order to extend the applications of this system, blood banks and clubs can be
 
 ### Project Demo
 
-| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
-|:--:| 
+| <img  src="Images/ERD.png"> |  
+| ER diagram |
+ 
+| <img  src="Images/schema diagram.png"> | 
 | Schema diagram |
+ 
+| <img  src="Images/home1.png"> | 
+| Landing home page |
+
+| <img  src="Images/home2.png"> | 
+| Home page |
+ 
+| <img  src="Images/login.png"> | 
+| Login page |
+ 
+| <img  src="Images/register.png"> | 
+| Register options |
+ 
+| <img  src="Images/reg2.png"> | 
+| Register Page |
+
+| <img  src="Images/profile.png"> |
+| Profile Page |
+
+| <img  src="Images/profile3.png"> | 
+| Profile Page |
+
+| <img  src="Images/requests.png"> |
+| Requests Page |
