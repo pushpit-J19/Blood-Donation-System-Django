@@ -55,33 +55,44 @@ In the donate folder,
 In order to extend the applications of this system, blood banks and clubs can be given user access so that they can update details about their inventory and camps information respectively. Furthermore, users may be allowed to edit their profile details like address, and also upload their profile images. Currently all these functions are managed by the admin or superuser. Moreover, E-mail or phone messages can be used to notify about the authorization.
 
 ### Project Demo
-
-| <img  src="Images/ERD.png"> |  
-| ER diagram |
+<p align="center" >
+<img  src="Images/ERD.png">  
+ ER diagram 
+ <hr>
  
-| <img  src="Images/schema diagram.png"> | 
-| Schema diagram |
- 
-| <img  src="Images/home1.png"> | 
-| Landing home page |
+<img  src="Images/schema diagram.png">
+Schema diagram
+  <hr>
+  
+<img  src="Images/home1.png">
+Landing home page 
+ <hr>
 
-| <img  src="Images/home2.png"> | 
-| Home page |
- 
-| <img  src="Images/login.png"> | 
-| Login page |
- 
-| <img  src="Images/register.png"> | 
-| Register options |
- 
-| <img  src="Images/reg2.png"> | 
-| Register Page |
+<img  src="Images/home2.png"> 
+Home page
+<hr>
 
-| <img  src="Images/profile.png"> |
-| Profile Page |
+<img  src="Images/login.png"> 
+Login page
+<hr>
 
-| <img  src="Images/profile3.png"> | 
-| Profile Page |
+<img  src="Images/register.png">
+Register options
+<hr>
+ 
+<img  src="Images/reg2.png">
+Register Page 
+ <hr>
 
-| <img  src="Images/requests.png"> |
-| Requests Page |
+<img  src="Images/profile.png">
+Profile Page
+ <hr>
+
+<img  src="Images/profile3.png"> 
+Profile Page
+ <hr>
+
+<img  src="Images/requests.png">
+Requests Page
+<hr>
+</p>
